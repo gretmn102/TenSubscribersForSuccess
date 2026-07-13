@@ -1,3 +1,13 @@
-# 10 подписчиков — это успех
+#  Комикс в честь 21 подписчика в Лапкосборе
 
-Комикс в честь 10 подписчиков на [канале в Телеге](https://t.me/lapkosbor).
+![netlenij](https://lapkiteam.github.io/CelebratingTwentyOneSubscribers/netlenij.webp)
+
+![tuatara](https://lapkiteam.github.io/CelebratingTwentyOneSubscribers/tuatara.webp)
+
+![elChem](https://lapkiteam.github.io/CelebratingTwentyOneSubscribers/elChem.webp)
+
+![mirror](https://lapkiteam.github.io/CelebratingTwentyOneSubscribers/mirror.webp)
+
+![devil](https://lapkiteam.github.io/CelebratingTwentyOneSubscribers/devil.webp)
+
+![all](https://lapkiteam.github.io/CelebratingTwentyOneSubscribers/all.webp)
